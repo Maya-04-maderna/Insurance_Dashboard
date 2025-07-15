@@ -20,22 +20,16 @@ An interactive Streamlit dashboard that reveals how demographic and lifestyle fa
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Technologies Used
 
-- **Python 3.x**  
-- **Streamlit** – interactive web app UI  
-- **Pandas & NumPy** – data cleaning & analysis  
-- **Matplotlib & Seaborn** – visualization tools  
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
 ---
 
-## 🔧 Setup & Run
 
-```bash
-git clone https://github.com/yourusername/insurance-dashboard.git
-cd insurance-dashboard
-python3 -m venv venv
-source venv/bin/activate  # macOS/Linux
-.\venv\Scripts\activate   # Windows
-pip install -r requirements.txt
-streamlit run app.py
+
