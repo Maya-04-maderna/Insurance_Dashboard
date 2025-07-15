@@ -15,7 +15,7 @@ An interactive Streamlit dashboard that reveals how demographic and lifestyle fa
 ---
 
 ## 📊 Dashboard 
-<link src="Screenshot/insurance_dashboard.png" alt="Dashboard" width="800" />
+<link src="Screenshot/Insurance_dashboard.png" alt="Dashboard" width="800" />
 
 
 ---
